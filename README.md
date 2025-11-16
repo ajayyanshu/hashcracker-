@@ -114,17 +114,25 @@ python3 cracker.py <hash_here> \
 ```
 ---
 ### ❤️ Support & Donations
-If you find this tool helpful and want to support its development, please consider donating. Every little bit helps!
+If you find this tool helpful and want to support itIf you find HashCrackPro useful and would like to support its development, please consider making a donation. Your contributions help us maintain and improve the project.
 
-• ☕ Buy Me a Coffee
+[![Donate](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd9o3K2CK9LObsNOok8nY4WYMSwKkhAzsz7NDxmO8eZU-d8dw4kEKW1Ycp3QpzVsT2okmWwoBXLXB757yQhoL0Xandlt3Wjwdw7tTlU4hTGdJcFH1tq1i0K6o7uTTGK-20fKi7DQhgoYEZkHI1-Y9UPBWAjiNhtn8TceqHS4O6kTaaeNweZe6OBJ0Ve0ou/s424/download.png)](https://buymeacoffee.com/ajayyanshu)
 
-• GitHub Sponsors: Sponsor @your-username
+[![Donate](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMgW12teTME3e1Ap4Lc6MuQ7mFoEfyKINWAQ8dDx0vRR6XXNXGNXSaOgFdFhB2kTv8d6r5TiMIpRqJv9EnrM2YU1Syrvq4KO32YcmjiJk-GLuxHGMwfTPIO1Zz1JE2lCSMTRcrY1JJues1jpC4qotBNumo3d3dC79uRFulGasM8vzSdneJmzunxKDiUKI2/s386/upi.PNG)]()
+s development, please consider donating. Every little bit helps!
 
-• BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
-
-• ETH: 0x0000000000000000000000000000000000000000
 
 ---
+## Contact with us
+
+For inquiries and support, please contact us at [ajayyanshu@gmail.com](mailto:ajayyanshu@gmail.com).
+
+----
+
+## Contributions
+
+Contributions are welcome! Please fork this repository and submit pull requests with your enhancements.
+----
 
 ⚠️ Disclaimer
 
