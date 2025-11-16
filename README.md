@@ -119,10 +119,9 @@ If you find this tool helpful and want to support its development, please consid
 • ☕ Buy Me a Coffee
 
 • GitHub Sponsors: Sponsor @your-username
-
 • BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
-
 • ETH: 0x0000000000000000000000000000000000000000
+
 ---
 
 ⚠️ Disclaimer
