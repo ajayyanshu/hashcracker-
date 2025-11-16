@@ -88,12 +88,40 @@ A highly-targeted brute-force. Use this when you know parts of the password.
 
 Mask Syntax:
 
-?l = Lowercase letter (a-z)
+• ?l = Lowercase letter (a-z)
 
-?u = Uppercase letter (A-Z)
+• ?u = Uppercase letter (A-Z)
 
-?d = Digit (0-9)
+• ?d = Digit (0-9)
 
-?s = Special Symbol (!@#$%...)
+• ?s = Special Symbol (!@#$%...)
 
-Any other character is a literal.
+• Any other character is a literal.
+
+```bash
+# Example: Crack a password like 'User2024'
+# We guess the mask is: '?u?l?l?l?d?d?d?d'
+# Hash for 'User2024' (md5): 98da995a6d3f20c438f2f6902e86663f
+python3 cracker.py 98da995a6d3f20c438f2f6902e86663f \
+    -a md5 \
+    -m '?u?l?l?l?d?d?d?d'
+
+# Example: Crack a password like 'Admin!23'
+# We guess the mask is: 'Admin?s?d?d'
+python3 cracker.py <hash_here> \
+    -a sha256 \
+    -m 'Admin?s?d?d'
+```
+---
+### ❤️ Support & Donations
+If you find this tool helpful and want to support its development, please consider donating. Every little bit helps!
+
+• ☕ Buy Me a Coffee
+• GitHub Sponsors: Sponsor @your-username
+• BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+• ETH: 0x0000000000000000000000000000000000000000
+---
+
+⚠️ Disclaimer
+
+This tool is intended for educational purposes, cybersecurity training (CTFs), and authorized security audits only. The developer is not responsible for any malicious or illegal use of this software.
