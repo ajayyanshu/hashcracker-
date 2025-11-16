@@ -49,4 +49,14 @@ To see all available commands and options, use the `-h` flag:
 ```bash
 python3 cracker.py -h
 
+### 1. Brute-Force Attack (`-b`)
+Checks all combinations of a given charset up to a max length.
 
+```bash
+# Example: Crack a 5-character, all-lowercase password
+# Hash for 'hello' (sha256): 2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824
+python3 cracker.py 2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824 \
+    -a sha256 \
+    -b \
+    -c abcdefghijklmnopqrstuvwxyz \
+    -l 5
