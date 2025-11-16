@@ -48,7 +48,6 @@ The script is run from the command line, with your target hash as the first argu
 To see all available commands and options, use the `-h` flag:
 ```bash
 python3 cracker.py -h
-
 ---
 
 ### 1. Brute-Force Attack (`-b`)
