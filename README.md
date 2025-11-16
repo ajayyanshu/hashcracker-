@@ -23,7 +23,7 @@ This tool is for educational purposes and ethical, authorized use only.
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/hashcracker.git](https://github.com/your-username/hashcracker.git)
+    git clone https://github.com/ajayyanshu/HashCracker.git
     cd hashcracker
     ```
 
