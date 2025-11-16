@@ -42,6 +42,14 @@ This tool is for educational purposes and ethical, authorized use only.
 ## 📖 Usage
 
 The script is run from the command line, with your target hash as the first argument. You must then choose one attack mode.
+
+### 💬 Get Help
+
+To see all available commands and options, use the `-h` flag:
+```bash
+python3 cracker.py -h
+```
+---
 ### 1. Brute-Force Attack (`-b`)
 Checks all combinations of a given charset up to a max length.
 
@@ -53,11 +61,3 @@ python3 cracker.py 2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9
     -b \
     -c abcdefghijklmnopqrstuvwxyz \
     -l 5
-### 💬 Get Help
-
-To see all available commands and options, use the `-h` flag:
-```bash
-python3 cracker.py -h
-```
----
-
